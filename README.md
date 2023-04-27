@@ -34,7 +34,7 @@ Display Customer information when Credit_Limit is above 15,000.
 
 6. Create a Servlet to file IT returns that accepts personal information, salary information and Tax deduction details from the user. Write the information into a file. Accept the name of the person and display in on the page.
 
-7.Create a servlet that accepts patient information in a hospital such as patient id, patient name, and age, date of admission, cause of admission, doctor diagnosed, and treatment proposed. Use HTML for front end.
+7. Create a servlet that accepts patient information in a hospital such as patient id, patient name, and age, date of admission, cause of admission, doctor diagnosed, and treatment proposed. Use HTML for front end.
 Place the details into a database. Allow options to insert and view the contents in the database.
 
 8. Create the following application with JSP and Servlet.
